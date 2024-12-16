@@ -21,10 +21,10 @@
 title: Thomas Prince
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A simple site about me (Thomas Prince) - who I am, what I do, and I do it.
+  A simple site about me (Thomas Prince) - who I am, what I do, and why I do it.
   This is my first static website I've developed. Just for fun really :)
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://tommy-pea.me" # the subpath of your site, e.g. /blog
+url: "https://tommy-pea.me" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: tommy-pea
 github_username:  tommy-pea
 
