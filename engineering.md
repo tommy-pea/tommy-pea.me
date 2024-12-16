@@ -12,7 +12,7 @@ I currently work at WSP UK as a Consultant in their Transport Net Zero team. My 
 Resume: [Consultant - Transport Net Zero][1]
 
 I have been with WSP for three years, starting as a Graduate Transport Planner in Wellington, New Zealand. While at WSP NZ, I had transport research publicly published, presented at multiple conferences, and became a Member of Engineering New Zealand.\
-Resume: [Graduate Transport Planner][2]\
+Resume: [Graduate Transport Planner][2]j\
 Published research: [Household Travel in our Major Urban Areas][3]{:target="_blank"}\
 WSP insight: [Winding back how far we drive: Aotearoa New Zealand’s bumpy road ahead][4]{:target="_blank"}
 
