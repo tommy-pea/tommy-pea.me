@@ -30,16 +30,21 @@ github_username:  tommy-pea
 
 # Build settings
 #theme: minimal-mistakes-jekyll
-remote_theme: benbalter/retlab
+
+
+#theme: minimal-mistakes
 plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
-minimal_mistakes_skin: air #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+remote_theme: mmistakes/minimal-mistakes
+
+#minimal_mistakes_skin: air #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 breadcrumbs: true
 
-include: ["_pages", "_posts"]
+include: ["_pages"]
 defaults:
   - scope:
       path: ""
