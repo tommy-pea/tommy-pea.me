@@ -2,13 +2,13 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page
+layout: single
 title: Engineering
 permalink: /engineering/
 
 ---
 
-I currently work at WSP UK as a Consultant in their Transport Net Zero team. My highlight in this role has been developing a Dash application to automate the assessment of road user emissions from transport model output. Another project I played a key role in was [Midlands Connect's Baseline Emissions Dashboard development (a.k.a. MiOutcomes)][Midlands Connect Baseline Emissions Dashboard]{:target="_blank"}, which is a complex web application developed in Dash Enterprise. \
+I currently work at WSP UK as a Consultant in their Transport Net Zero team. My highlight in this role has been developing a Dash application to automate the assessment of road user emissions from transport model output. [Midlands Connect's Baseline Emissions Dashboard (a.k.a. MiOutcomes)][Midlands Connect Baseline Emissions Dashboard]{:target="_blank"} is another project I played a key role in - it's a complex multi-page data visualisation and interaction web application developed in Dash Enterprise.\
 Resume: [Consultant - Transport Net Zero][Resume: Consultant - Transport Net Zero]
 
 I have been with WSP for three years, starting as a Graduate Transport Planner in Wellington, New Zealand. While at WSP NZ, I had transport research publicly published, presented at multiple conferences, and became a Member of Engineering New Zealand.\
