@@ -4,7 +4,7 @@
 
 layout: splash
 classes: landing
-tagline: Welcome to my small corner of the internet, I'm Thomas :)
+tagline: Welcome to my small corner of the internet :)
 header:
     overlay_filter: 0.3 
     overlay_image: assets/images/splash_header.png
