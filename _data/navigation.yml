@@ -1,7 +1,42 @@
 main:
-  - title: About
+  - title: About me...
     url: about
   - title: Engineering
     url: engineering
   - title: Music
     url: music
+
+engineering:
+  - title: Career
+    children:
+    - title: Overview
+      url: /engineering/career/
+    - title: WSP UK
+      url: /engineering/career/wsp-uk/
+    - title: WSP NZ
+      url: /engineering/career/wsp-nz/
+
+  - title: Education
+    children:
+      - title: Overview
+        url: /engineering/education/
+      - title: The University of Auckland
+        url: /engineering/education/uoa
+      - title: McGill University
+        url: /engineering/education/mcgill
+
+music:
+  - title: Violin Performance
+    children:
+      - title: Overview
+      - title: The Exploding Rainbow Orchestra
+      - title: The Music Man in Concert
+      - title: Orchestra Auckland
+      - title: Stranger Strings Swing Quartet
+
+  - title: Education
+    children:
+      - title: The University of Auckland
+      - title: Adams Summer School
+      - title: NZSO National Youth Orchestra
+      - title: NZ Secondary Schools Symphony Orchestra 

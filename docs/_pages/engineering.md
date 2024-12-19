@@ -6,9 +6,13 @@ layout: single
 title: Engineering
 permalink: /engineering/
 
+sidebar:
+  nav: engineering
+
 ---
 
-I currently work at WSP UK as a Consultant in their Transport Net Zero team. My highlight in this role has been developing a Dash application to automate the assessment of road user emissions from transport model output. [Midlands Connect's Baseline Emissions Dashboard (a.k.a. MiOutcomes)][Midlands Connect Baseline Emissions Dashboard]{:target="_blank"} is another project I played a key role in - it's a complex multi-page data visualisation and interaction web application developed in Dash Enterprise.\
+I work at WSP UK as a Consultant in their Transport Net Zero team. My highlight in this role has been developing a Dash application in Python to automate the assessment of road user emissions from transport model output. I played a critical role in developing the [Midlands Connect's Baseline Emissions Dashboard (a.k.a. MiOutcomes)][Midlands Connect Baseline Emissions Dashboard]{:target="_blank"} - a complex multi-page data visualisation and interaction web application developed in Dash Enterprise.
+In the role, I've become an expert in carbon assessment for infrastructure projects.\
 Resume: [Consultant - Transport Net Zero][Resume: Consultant - Transport Net Zero]
 
 I have been with WSP for three years, starting as a Graduate Transport Planner in Wellington, New Zealand. While at WSP NZ, I had transport research publicly published, presented at multiple conferences, and became a Member of Engineering New Zealand.\
@@ -20,7 +24,7 @@ The aim of my enginnering honours' research was to use artificial neural network
 Honours research: [Neural Networks and the Prediction of Chaos][Neural Networks and the Prediction of Chaos]{:target="_blank"}
 
 I studied a Bachelor of Engineering (Honours) / Bachelor of Music conjoint at the University of Auckland. My engineering specialisation was Engineering Science, sub-specialising in Operations Research (OR). I was awarded my engineering degree with First Class Honours.\
-Engineering: [Course Summary]({{ site.url }})
+Engineering: [Course Summary]({{ site.url }}/engineering/education/uoa)
 
 [Midlands Connect Baseline Emissions Dashboard]: https://www.midlandsconnect.uk/projects/data/
 [Resume: Consultant - Transport Net Zero]: {{site.url}}

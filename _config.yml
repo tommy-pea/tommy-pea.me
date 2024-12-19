@@ -44,7 +44,7 @@ remote_theme: mmistakes/minimal-mistakes
 
 breadcrumbs: true
 
-include: ["_pages"]
+include: ["_pages", "_pages_engineering"]
 defaults:
   - scope:
       path: ""
