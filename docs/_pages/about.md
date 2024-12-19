@@ -1,13 +1,13 @@
 ---
 
 layout: single
-title: About
+title: About me
 permalink: /about/
 author_profile: true
 
 ---
 
-I currently work as a Consultant - Transport Net Zero at WSP UK in London, but am very open to exploring new opportunities.
+I am a Consultant - Transport Net Zero at WSP UK in London.
 
 I studied at the University of Auckland. 
 I have a Bachelor of Engineering (Honours) with First Class Honours specialising in Engineering Science and a Bachelor of Music majoring in Classical Performance.

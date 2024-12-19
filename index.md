@@ -4,13 +4,16 @@
 
 layout: splash
 classes: landing
-tagline: Welcome to my small corner of the internet, I'm Thomas :)
+tagline: Welcome to my small corner of the internet :)
 header:
-    overlay_filter: 0.3 
-    overlay_image: assets/images/splash_header.png
+  overlay_filter: 0.3
+  overlay_image: assets/images/splash_header.png
 feature_row:
-    - image_path: assets/images/headshot.png
-    - url: _pages/about.md
+  - image_path: assets/images/headshot.png
+    btn_label: asdf
+    btn_class: btn--inverse
+    url: /about/
 
 ---
+
 {% include feature_row %}

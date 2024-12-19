@@ -3,14 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: single
-title: Music
-permalink: /music/
+title: McGill University
+permalink: /engineering/education/mcgill
+
+sidebar:
+  nav: engineering
 
 ---
-
-Exploding Rainbow Orchestra
-
-The Music Man in Concert
-
-Wairua Sinfonietta
-
