@@ -3,6 +3,14 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: splash
-author_profile: true
+classes: landing
+tagline: Welcome to my small corner of the internet, I'm Thomas :)
+header:
+    overlay_filter: 0.3 
+    overlay_image: assets/images/splash_header.png
+feature_row:
+    - image_path: assets/images/headshot.png
+    - url: _pages/about.md
 
 ---
+{% include feature_row %}
