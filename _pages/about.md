@@ -4,21 +4,9 @@ title: About
 permalink: /about/
 ---
 
-My name is Thomas.
-I studied a conjoint degree at the University of Auckland.
-I have a Bachelor of Engineering (Honours) with First Class Honours specialising in Engineering Science and a Bachelor of Music majoring in Classical Performance. I play the violin.
+I have a Bachelor of Engineering (Honours) with First Class Honours specialising in Engineering Science and a Bachelor of Music majoring in Classical Performance from the University of Auckland.
+My Engineering Science courses focused on topics including operations research, statistics, stochastic modelling, data analysis and visualisation, feature engineering, time series analysis, machine learning, linear programming, integer and mixed-integer programming, algorithms for optimisation, mathematical modelling, calculus, and signal processing.
+In music I studied the violin under Stephen Larsen. Other music courses included classical ensemble playing, music culture, musical interface design, pedagogical approaches, music production, and music theory.
 
-
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-[jekyll-organization]: https://github.com/jekyll
-
+I currently work as a Consultant - Transport Net Zero at WSP UK in London.
+I am starting to investigate new opportunities.
