@@ -29,13 +29,14 @@ music:
   - title: Violin Performance
     children:
       - title: Overview
-      - title: The Exploding Rainbow Orchestra
-      - title: The Music Man in Concert
+      - title: Exploding Rainbow Orchestra
+      - title: Music Man in Concert
       - title: Orchestra Auckland
       - title: Stranger Strings Swing Quartet
 
   - title: Education
     children:
+      - title: Overview
       - title: The University of Auckland
       - title: Adams Summer School
       - title: NZSO National Youth Orchestra

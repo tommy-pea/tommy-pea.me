@@ -3,10 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: single
-title: Career Overview
-permalink: /engineering/education/
+title: Career
+permalink: /engineering/career/
+breadcrumbs: /engineering/career/
 
 sidebar:
   nav: engineering
 
 ---
+
+asdf

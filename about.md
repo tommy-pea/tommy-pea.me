@@ -7,7 +7,11 @@ author_profile: true
 
 ---
 
-I am a Consultant - Transport Net Zero at WSP UK in London.
+I am an excellent data analyst, visualiser, communicator, and problem solver. 
+I can code, and solve complex problems, in Python, R, MATLAB, and Microsoft Suite software products.
+
+I work as a Transport Net Zero Consultant at WSP UK in London.
+I've worked at WSP for three years between Wellington, Auckland, Leeds, and London in the transport sector. 
 
 I studied at the University of Auckland. 
 I have a Bachelor of Engineering (Honours) with First Class Honours specialising in Engineering Science and a Bachelor of Music majoring in Classical Performance.
