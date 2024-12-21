@@ -6,6 +6,7 @@ layout: tag
 taxonomy: WSP NZ 
 title: WSP in New Zealand
 permalink: /engineering/career/wsp-nz/
+breadcrumbs: /engineering/career/wsp-nz
 
 sidebar:
   nav: engineering

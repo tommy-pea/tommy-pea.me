@@ -16,4 +16,12 @@ feature_row:
 
 ---
 
+This is my site, a small personal project which I imagine will be constantly changing.\
+The site has a few purposes:
+1. Recording and maintaining a Curriculum Vitae (for engineering and for music).
+2. Working towards engineering chartership - it's more exciting recording my progress in here than an Excel workbook.
+3. Practice using GitHub and GitHub Sites - I've built it using the Minimal Mistakes Jekyll Theme.
+4. Book reviews - this is something I've decided I want to do for some reason. Not to criticise; more to record quotes that move me, and keep track of what I've learned incase I want to go back to it.
+5. Blog about anything else I feel like blogging about. Mainly for myself to come back to and reflect on.
+
 {% include feature_row %}
