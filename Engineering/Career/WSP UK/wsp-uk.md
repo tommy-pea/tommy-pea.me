@@ -13,10 +13,10 @@ sidebar:
 ---
 
 I have worked at WSP UK since March 2024.
-The posts below detail my work experience and achievements.
+My role is Transport Net Zero Consultant.
+
+Posts below detail my work experience and achievements.
 
 {% for post in site.categories.WSP_UK %}
-
 {% include archive-single.html %}
-
 {% endfor %}

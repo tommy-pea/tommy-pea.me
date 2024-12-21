@@ -14,7 +14,7 @@ tags:
   - Data Analysis
   - Data Visualisation
 breadcrumbs: false
-permalink: /engineering/career/wsp-uk/midlands-connect-baseline-emissions-dashboard
+permalink: /engineering/career/wsp-uk/mc-baseline-emissions-dashboard/
 ---
 Jul. 2024 - Nov. 2024
 

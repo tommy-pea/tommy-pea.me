@@ -3,12 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: single
-title: McGill University
-permalink: /engineering/education/mcgill/
+title: Education
+permalink: /music/education/
 
 sidebar:
-  nav: engineering
+  nav: music
 
 ---
-
-In Semester Two, 2019, I went on an exchange with 360 Exchange to McGill University.

@@ -26,14 +26,6 @@ engineering:
         url: /engineering/education/mcgill
 
 music:
-  - title: Violin Performance
-    children:
-      - title: Overview
-      - title: Exploding Rainbow Orchestra
-      - title: Music Man in Concert
-      - title: Orchestra Auckland
-      - title: Stranger Strings Swing Quartet
-
   - title: Education
     children:
       - title: Overview
@@ -41,3 +33,24 @@ music:
       - title: Adams Summer School
       - title: NZSO National Youth Orchestra
       - title: NZ Secondary Schools Symphony Orchestra 
+      
+  - title: Performance
+    children:
+      - title: Overview
+        url: /music/performance
+      - title: Exploding Rainbow Orchestra
+        url: /music/performance/ero
+      - title: Music Man in Concert
+        url: /music/performance/the-music-man
+      - title: Orchestra Auckland
+        url: /music/performance/orchestra-auckland
+      - title: Stranger Strings Swing Quartet
+        url: /music/performance/sssq
+  
+  - title: Teaching
+    children:
+      - Overview
+
+Personal:
+  - title: Mental Health
+  

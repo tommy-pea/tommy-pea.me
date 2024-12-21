@@ -10,3 +10,5 @@ sidebar:
   nav: engineering
 
 ---
+
+I studied Engineering Science (EngSci) at the University of Auckland (UoA).
