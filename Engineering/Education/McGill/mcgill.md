@@ -11,4 +11,4 @@ sidebar:
 
 ---
 
-In Semester Two, 2019, I went on an exchange with 360 Exchange to McGill University.
+In Semester Two, 2019, I went on an exchange to McGill University.
