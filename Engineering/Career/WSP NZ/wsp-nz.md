@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: tag
-taxonomy: WSP NZ
+taxonomy: WSP NZ 
 title: WSP in New Zealand
 permalink: /engineering/career/wsp-nz/
 
