@@ -18,6 +18,8 @@ permalink: /engineering/career/wsp-uk/mc-baseline-emissions-dashboard/
 ---
 Jul. 2024 - Nov. 2024
 
+
+
 I led the project team in delivering a proof of concept, then minimal viable product, within a highly constrained time horizon. 
 I ran daily check-in meetings with the project team to share progress, re-allocate and re-prioritise tasks, remove blockers, ask and answer questions, and discuss how we were feeling and whether resources need to be shifted.
 

@@ -11,7 +11,7 @@ sidebar:
 
 ---
 
-To demonstrate engineering competence, I need to provide my work history (CV) demonstrating my involvement in complex engineering activities.
+To demonstrate engineering competence, I provide my work history (CV) demonstrating involvement in complex engineering activities.
 
 Complex engineering problems include some, or all, of:
 * wide-ranging or conflicting technical, engineering, and other related issues
@@ -24,7 +24,7 @@ Complex engineering problems include some, or all, of:
 
 Complex engineering activities include some, or all, of:
 * diverse resources, e.g. people, money, equipment, materials and technologies
-* resolving critical problems that occur when a variety of technical, engineering and other related issues interact
+* resolving critical problems that occur when a variety of technical, engineering, and other related issues interact
 * new materials, techniques or processes, or the innovative use of existing materials, techniques, or processes
 * significant consequences in a range of contexts.
 
@@ -33,6 +33,8 @@ Tips:
 Have a look at Appendix 2 for our full definition of complexity levels across different types of Chartership.
 * Clearly explain the complexity of each of the work samples you provide as evidence in your application.
 To do this, think about what challenged you and how you solved those challenges.
+
+Four pillars (column headers), each with elements, 
 
 | Engineering knowledge | Managing engineering work | Professional accumen | Developing technical solutions |
 |-------|-------|-------|-------|

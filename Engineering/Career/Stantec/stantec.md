@@ -13,5 +13,4 @@ sidebar:
 ---
 
 I worked at Stantec in Nelson, New Zealand as an intern over the summer of 2020/21.
-The posts below detail my work experience and achievements.
 

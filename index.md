@@ -4,24 +4,29 @@
 
 layout: splash
 classes: landing
-tagline: Welcome to my small corner of the internet :)
-header:
+title: Thomas Prince
+tagline: Engineer and musician
+author_profile: true
+header: 
   overlay_filter: 0.3
   overlay_image: assets/images/splash_header.png
 feature_row:
   - image_path: assets/images/headshot.png
-    btn_label: asdf
-    btn_class: btn--inverse
-    url: /about/
 
 ---
 
-This is my site, a small personal project which I imagine will be constantly changing.\
-The site has a few purposes:
-1. Recording and maintaining a Curriculum Vitae (for engineering and for music).
-2. Working towards engineering chartership - it's more exciting recording my progress in here than an Excel workbook.
-3. Practice using GitHub and GitHub Sites - I've built it using the Minimal Mistakes Jekyll Theme.
-4. Book reviews - this is something I've decided I want to do for some reason. Not to criticise; more to record quotes that move me, and keep track of what I've learned incase I want to go back to it.
-5. Blog about anything else I feel like blogging about. Mainly for myself to come back to and reflect on.
+I studied at the University of Auckland. I have a Bachelor of Engineering (Honours) with First Class Honours specialising in Engineering Science and a Bachelor of Music majoring in Classical Performance.
+
+I am an excellent data analyst, visualiser, communicator, and problem solver. I can code, and solve complex problems, in Python, R, MATLAB, and Microsoft Suite software products.
+
+I’ve worked at WSP for three years between Wellington, Auckland, Leeds, and London in the transport sector. My current role is Transport Net Zero Consultant at WSP UK in London.
+
+Outside of work, I try to keep my music alive - I play the violin. In 2024, I played with the Leeds Symphony Orchestra, Salomon Orchestra, Weekend Opera Workshops, and taught private lesssons.
+
+My engineering courses focused on topics including operations research, statistics, stochastic modelling, data analysis and visualisation, feature engineering, time series analysis, machine learning, linear programming, integer and mixed-integer programming, algorithms for optimisation, mathematical modelling, calculus, and signal processing.
+
+In music I studied violin performance with Stephen Larsen. Other courses included classical ensemble playing, music culture, musical interface design, pedagogical approaches, music production, and music theory.
+
+This website is a small personal project.
 
 {% include feature_row %}

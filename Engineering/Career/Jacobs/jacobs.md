@@ -13,5 +13,3 @@ sidebar:
 ---
 
 I worked at Jacobs in Wellington, New Zealand as an intern over the summer of 2020/21.
-The posts below detail my work experience and achievements.
-
