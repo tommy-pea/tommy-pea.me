@@ -9,6 +9,6 @@ tags:
   - Engineering
   - Transport
 ---
-Jul. 2024 - Dec. 2024
 
+While at WSP NZ, 
 I saw an opportunity and have played a part in enabling it's uptake at WSP UK.

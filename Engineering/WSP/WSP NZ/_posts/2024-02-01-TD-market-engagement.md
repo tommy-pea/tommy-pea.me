@@ -9,6 +9,6 @@ tags:
   - Stakeholder Management
 show_date: false
 ---
-Dec. 2022 - Feb. 2024
 
+The WSP NZ Technical Director (TD) Market Engagement Working Group.
 I was secretary for the WSP NZ Technical Director (TD) Market Engagement Working Group.

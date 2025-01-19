@@ -13,6 +13,6 @@ tags:
 breadcrumbs: false
 permalink: /engineering/career/wsp-uk/python-training
 ---
-Jul. 2024 - Dec. 2024
 
 I trained WSP UK's Communities and Mobility team on Python.
+

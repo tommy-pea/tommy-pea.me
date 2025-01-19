@@ -11,7 +11,7 @@ sidebar:
 
 ---
 
-To demonstrate engineering competence, I provide my work history (CV) demonstrating involvement in complex engineering activities.
+To demonstrate engineering competence, I must provide my work history (CV) demonstrating involvement in complex engineering activities.
 
 Complex engineering problems include some, or all, of:
 * wide-ranging or conflicting technical, engineering, and other related issues
@@ -42,5 +42,3 @@ Four pillars (column headers), each with elements,
 | Local knowledge | Managing complex activities | Social, Cultural, Environmental, and Economic Impacts | Developing solutions |
 | Keeping up to date | Sound professional judgement | Communication |    |
 |   | Risk identification and management |    |    |
-
-

@@ -11,4 +11,6 @@ sidebar:
 
 ---
 
-I studied Engineering Science (EngSci) at the University of Auckland (UoA).
+I was awarded a Bachelor of Engineering (Honours) with First Class Honours, specialising in Engineering Science, at the University of Auckland.
+This is a Washington Accord accredited degree.
+
