@@ -11,3 +11,5 @@ sidebar:
 
 ---
 
+I have a Bachelor of Engineering (Honours) with First Class Honours, specialising in Engineering Science, from the University of Auckland.
+This is a Washington Accord accredited degree.
