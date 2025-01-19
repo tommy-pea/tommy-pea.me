@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Household travel in our major urban areas
+title: "Publication: Household travel in our major urban areas"
 #date: 2024-12-21 13:06:00 +0000
 tags:
   - WSP NZ

@@ -13,6 +13,8 @@ show_date: false
 ---
 Feb. 2022 - Dec. 2022
 
+Preamble...
+
 I analysed and wrangled multiple datasets including the household travel survey, crash analysis system, traﬃc monitoring system, Stats NZ population projections, and Ministry of Transport historic vehicle kilometres travelled.
 I prepared, and delivered, two reports:
 1. Crash Outcomes with Declining Light Vehicle Kilometres of Travel and Initial

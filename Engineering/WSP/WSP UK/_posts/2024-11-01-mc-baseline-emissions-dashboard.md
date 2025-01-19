@@ -18,13 +18,11 @@ permalink: /engineering/career/wsp-uk/mc-baseline-emissions-dashboard/
 ---
 Jul. 2024 - Nov. 2024
 
+The Midlands Connect Baseline Emissions Dashboard is an interactive Python Dash web application.
+It was developed in Dash Enterprise.
 
+I led the project team in delivering a proof of concept, then minimal viable product.
+I ran daily check-in meetings with the project team to discuss and share progress, re-allocate and re-prioritise tasks, address blockers, ask and answer questions, and discuss how the team was feeling and whether tasks needed to be redistributed between team members.
 
-I led the project team in delivering a proof of concept, then minimal viable product, within a highly constrained time horizon. 
-I ran daily check-in meetings with the project team to share progress, re-allocate and re-prioritise tasks, remove blockers, ask and answer questions, and discuss how we were feeling and whether resources need to be shifted.
-
-I continued contributing to the project - following minimal viable product delivery - in a check-and-challenge and guidance role, ensuring that the project team clearly understood the scope and methodology of the technical tasks at hand.
-I regularly communicated with and challenged the Project Manager to ensure their vision was being delivered to within realistic time frames.
-
-The dashboard was developed in Dash Enterprise using Python.
-
+Following delivery of a minimal viable product, I contributed in a check-and-challenge and guidance role, ensuring that the project team clearly understood the scope and methodology of technical tasks at hand.
+I liaised with, and challenged, the Project Manager to ensure their vision was being delivered to within realistic time frames.
