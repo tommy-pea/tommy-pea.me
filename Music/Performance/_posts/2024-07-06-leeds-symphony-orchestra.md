@@ -1,6 +1,6 @@
 ---
 layout: single
-title: The Music Man
+title: Leeds Symphony Orchestra
 date:   2024-12-21 11:00:00 +0000
 show_date: false
 tags: 
@@ -9,4 +9,7 @@ tags:
   - Performance
 ---
 
-The Music Man in Concert at Aotea Centre
+Leeds Symphony Orchestra (LSO) ... Pines of Rome in Ilkley
+
+
+
