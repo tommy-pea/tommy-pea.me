@@ -27,6 +27,4 @@ My engineering courses focused on topics including operations research, statisti
 
 In music I studied violin performance with Stephen Larsen. Other courses included classical ensemble playing, music culture, musical interface design, pedagogical approaches, music production, and music theory.
 
-This website is a small personal project.
-
 {% include feature_row %}

@@ -5,13 +5,16 @@
 layout: tag
 taxonomy: WSP NZ 
 title: WSP in New Zealand
-permalink: /engineering/career/wsp-nz/
-breadcrumbs: /engineering/career/wsp-nz
+permalink: /engineering/wsp-nz/
 
 sidebar:
   nav: engineering
 
 ---
 
-I worked at WSP NZ for two years from Feb. 2022 to Feb. 2024.
-The posts below detail my work experience and achievements.
+The first two years of my career were spent at WSP NZ.
+
+{% assign sorted_posts = site.WSP_UK %}
+{% for post in sorted_posts %}
+{% include archive-single.html %}
+{% endfor %}
