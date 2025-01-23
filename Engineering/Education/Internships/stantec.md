@@ -3,15 +3,14 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: tag
-taxonomy: Performance
-title: Performance
-permalink: /music/performance/
+taxonomy: Stantec
+title: Stantec
+permalink: /engineering/career/stantec/
 
 sidebar:
-  nav: music
+  nav: engineering
 
 ---
 
-{% for post in site.categories.WSP_UK %}
-{% include archive-single.html %}
-{% endfor %}
+I worked at Stantec in Nelson, New Zealand as an intern over the summer of 2020/21.
+

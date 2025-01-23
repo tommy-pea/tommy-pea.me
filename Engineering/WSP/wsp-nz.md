@@ -3,15 +3,18 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: tag
-taxonomy: Performance
-title: Performance
-permalink: /music/performance/
+taxonomy: WSP NZ 
+title: WSP in New Zealand
+permalink: /engineering/wsp-nz/
 
 sidebar:
-  nav: music
+  nav: engineering
 
 ---
 
-{% for post in site.categories.WSP_UK %}
+The first two years of my career were spent at WSP NZ.
+
+{% assign sorted_posts = site.WSP_UK %}
+{% for post in sorted_posts %}
 {% include archive-single.html %}
 {% endfor %}

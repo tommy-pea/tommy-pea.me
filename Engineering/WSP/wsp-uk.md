@@ -3,15 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: tag
-taxonomy: Performance
-title: Performance
-permalink: /music/performance/
+taxonomy: WSP NZ
+title: WSP in the UK
+permalink: /engineering/wsp-uk/
 
 sidebar:
-  nav: music
+  nav: engineering
 
 ---
 
-{% for post in site.categories.WSP_UK %}
-{% include archive-single.html %}
-{% endfor %}
+I have worked at WSP UK, as a Transport Net Zero Consultant, since March 2024.

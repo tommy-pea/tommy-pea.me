@@ -7,14 +7,14 @@ main:
     url: music
 
 engineering:
-  - title: Career
+  - title: WSP
     children:
     - title: Overview
-      url: /engineering/career/
+      url: /engineering/wsp/
     - title: WSP UK
-      url: /engineering/career/wsp-uk/
+      url: /engineering/wsp-uk/
     - title: WSP NZ
-      url: /engineering/career/wsp-nz/
+      url: /engineering/wsp-nz/
 
   - title: Education
     children:

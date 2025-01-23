@@ -3,15 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: tag
-taxonomy: Performance
-title: Performance
-permalink: /music/performance/
+taxonomy: Jacobs
+title: Jacobs
+permalink: /engineering/career/jacobs/
 
 sidebar:
-  nav: music
+  nav: engineering
 
 ---
 
-{% for post in site.categories.WSP_UK %}
-{% include archive-single.html %}
-{% endfor %}
+I worked at Jacobs in Wellington, New Zealand as an intern over the summer of 2020/21.
