@@ -1,6 +1,6 @@
 ---
 
-layout: single
+layout: tag
 title: Music
 permalink: /music/
 sidebar:

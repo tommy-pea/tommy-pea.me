@@ -1,8 +1,8 @@
 ---
 
-layout: single
+layout: tag
 title: Education
-permalink: /music/education/
+permalink: /music/education/uoa
 
 sidebar:
   nav: music
