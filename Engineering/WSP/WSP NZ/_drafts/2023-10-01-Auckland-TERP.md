@@ -11,6 +11,4 @@ tags:
   - Data Analysis
 show_date: false
 ---
-Apr. 2023 - Oct. 2023
 
-Auckland TERP

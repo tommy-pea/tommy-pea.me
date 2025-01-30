@@ -1,6 +1,7 @@
 ---
-layout: single
-title: Education
+layout: tag
+taxonomy: WSP
+title: WSP
 permalink: /engineering/wsp/
 
 sidebar:
@@ -8,5 +9,6 @@ sidebar:
 
 ---
 
-I have worked at WSP for three years.
-My current role is Transport Net Zero Consultant at WSP UK, based in London.
+I have worked at WSP for three years
+I am currently a Transport Net Zero Consultant at WSP UK, based in London.
+

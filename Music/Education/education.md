@@ -9,3 +9,4 @@ sidebar:
 
 ---
 
+I studied a Bachelor of Music at the University of Auckland, majoring in Classical Performance on violin.
