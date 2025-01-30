@@ -12,6 +12,4 @@ sidebar:
 
 ---
 
-{% for post in site.categories.WSP_UK %}
-{% include archive-single.html %}
-{% endfor %}
+I have performed in various ensembles, including orchestras, musicals, chamber groups, and in a gypsy jazz quartet.

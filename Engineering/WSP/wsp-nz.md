@@ -12,9 +12,4 @@ sidebar:
 
 ---
 
-The first two years of my career were spent at WSP NZ.
-
-{% assign sorted_posts = site.WSP_UK %}
-{% for post in sorted_posts %}
-{% include archive-single.html %}
-{% endfor %}
+I spent the first two years of my career at WSP NZ, working as a Transport Planner.

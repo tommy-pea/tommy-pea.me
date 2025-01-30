@@ -5,6 +5,7 @@ date:   2024-12-21 11:00:00 +0000
 show_date: false
 order: 1
 tags: 
+  - WSP
   - WSP UK
   - Engineering
   - Python
@@ -15,10 +16,8 @@ tags:
   - Data Analysis
   - Data Visualisation
 breadcrumbs: false
-permalink: /engineering/career/wsp-uk/mc-baseline-emissions-dashboard/
+permalink: wsp-uk/mc-baseline-emissions-dashboard/
 ---
-Jul. 2024 - Nov. 2024
-
 The Midlands Connect Baseline Emissions Dashboard is an interactive Python Dash web application developed in Dash Enterprise.
 
 I led the technical project team in delivering a proof of concept, then minimal viable product.
