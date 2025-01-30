@@ -30,21 +30,14 @@ music:
     children:
       - title: Overview
         url: /music/performance
-      - title: Orchestra
-        url: music/performance/orchestra
-      - title: Exploding Rainbow Orchestra
-        url: /music/performance/ero
-      - title: Music Man in Concert
-        url: /music/performance/the-music-man
-      - title: Orchestra Auckland
-        url: /music/performance/orchestra-auckland
-      - title: Stranger Strings Swing Quartet
-        url: /music/performance/sssq
+      - title: Concerts and Events
+        url: /music/performance/concerts
   
   - title: Education
     children:
       - title: Overview
+        url: music/education
       - title: The University of Auckland
-      - title: Adams Summer School
-      - title: NZSO National Youth Orchestra
-      - title: NZ Secondary Schools Symphony Orchestra
+        url: music/education/uoa
+      - title: Educational Ensembles
+        url: music/education/ensembles
