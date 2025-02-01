@@ -6,25 +6,54 @@ layout: splash
 classes: landing
 title: Thomas Prince
 tagline: Engineer and musician
+intro: 
+  - excerpt: '
+
+  I am an excellent data analyst, visualiser, communicator, and problem solver.\
+  
+  I solve and communicate complex problems using Python, R, MATLAB, and Microsoft software products.
+
+  '
 author_profile: true
 header: 
   overlay_filter: 0.3
   overlay_image: assets/images/splash_header.png
-feature_row:
-  - image_path: assets/images/headshot.png
 
+feature_row:
+    - excerpt: '
+
+    I studied at the University of Auckland. I have a Bachelor of Engineering (Honours) with First Class Honours specialising in Engineering Science and a Bachelor of Music majoring in Classical Performance on violin.
+
+    
+    Since graduating, I have worked at WSP (a global engineering consultancy firm) between Wellington, Auckland, Leeds, and London. My current role is Transport Net Zero Consultant at WSP UK in London.
+
+    '
+feature_row2:
+  - image_path: assets/images/iceland.jpeg
+    title: Who am I?
+    excerpt: I'm an engineer and musician living in London.
+    url: /music/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: assets/images/lorenz.jpeg
+    title: Engineering
+    excerpt: I studied engineering science and work in consulting.
+    url: /engineering/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: assets/images/gypsy_jazz.jpeg
+    title: Music
+    excerpt: I have played violin for 20 years and studied music alongside engineering.
+    url: /music/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
-I studied at the University of Auckland. I have a Bachelor of Engineering (Honours) with First Class Honours specialising in Engineering Science and a Bachelor of Music majoring in Classical Performance.
+{% include feature_row id="intro" type="center" %}
 
-Since graduating, I have worked at WSP (a global engineering consultancy firm) for three years between Wellington, Auckland, Leeds, and London. My current role is Transport Net Zero Consultant at WSP UK in London.
+{% include feature_row id="feature_row2" %}
 
-I am an excellent data analyst, visualiser, communicator, and problem solver. I can code, and solve complex problems, in Python, R, MATLAB, and Microsoft Suite software products.
+I studied at the University of Auckland. I have a Bachelor of Engineering (Honours) with First Class Honours specialising in Engineering Science and a Bachelor of Music majoring in Classical Performance on violin.
 
-Outside of work, I try to keep my music alive - I play the violin. In 2024, I played with the Leeds Symphony Orchestra, Salomon Orchestra, Weekend Opera Workshops, and taught private lesssons.
+Since graduating, I have worked at WSP - a global engineering consultancy firm - between Wellington, Auckland, Leeds, and London. My current role is Transport Net Zero Consultant at WSP UK in London.
 
-My engineering courses focused on topics including operations research, statistics, stochastic modelling, data analysis and visualisation, feature engineering, time series analysis, machine learning, linear programming, integer and mixed-integer programming, algorithms for optimisation, mathematical modelling, calculus, and signal processing.
-
-In music I studied violin performance with Stephen Larsen. Other courses included classical ensemble playing, music culture, musical interface design, pedagogical approaches, music production, and music theory.
-
-{% include feature_row %}

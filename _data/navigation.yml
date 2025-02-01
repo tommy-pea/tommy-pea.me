@@ -1,10 +1,12 @@
 main:
+  - title: Home
+    url: /
   - title: About me...
-    url: about
+    url: /about/
   - title: Engineering
-    url: engineering
+    url: /engineering/
   - title: Music
-    url: music
+    url: /music/
 
 engineering:
   - title: WSP

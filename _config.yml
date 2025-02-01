@@ -18,29 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Thomas Prince
+title: tommy-pea
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A simple site about me (Thomas Prince) - who I am, what I do, and why I do it.
   This is my first static website I've developed. Just for fun really :)
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tommy-pea.me" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: tommy-pea
+baseurl: ""
+url: https://tommy-pea.me
 github_username: tommy-pea
 
-# Build settings
-#theme: minimal-mistakes-jekyll
-
-
-#theme: minimal-mistakes
 plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
 
 remote_theme: mmistakes/minimal-mistakes
-
-#minimal_mistakes_skin: air #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 breadcrumbs: false
 
@@ -59,8 +51,8 @@ defaults:
       layout: single
       read_time: true
       author_profile: true
-      comments: true
-      share: true
+      comments: false
+      share: false
       related: true
 
 author:
