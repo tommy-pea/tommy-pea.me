@@ -5,6 +5,7 @@ date:   2024-12-21 11:00:00 +0000
 show_date: false
 order: 2
 tags: 
+  - WSP
   - WSP UK
   - Engineering
   - Python
@@ -22,4 +23,3 @@ The Emissions Factors Toolkit (EFT) is one method for assessing link-by-link use
 
 As part of a WSP UK Research and Development (R&D) initiative, I identified and addressed some issues and shortcomings of using the EFT.
 The EFT can be slow to run, and it WSP UK's
-

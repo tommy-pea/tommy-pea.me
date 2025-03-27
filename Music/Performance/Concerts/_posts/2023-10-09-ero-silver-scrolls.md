@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Exploding Rainbow Orchestra
-date:   2024-12-21 11:00:00 +0000
+title: Exploding Rainbow Orchestra - Silver Scrolls
+date:   2023-10-09 11:00:00 +0000
 show_date: false
 tags: 
   - Music
@@ -10,5 +10,7 @@ tags:
   - Orchestra
 permalink: /music/performance/ero-silver-scrolls
 ---
+
+I played at the Silver Scrolls Awards with Exploding Rainbow Orchestra and Vera Allen's tribute to Don McGlashan.
 
 {% include video id="wHqPp6gAlMM" provider="youtube" %}
