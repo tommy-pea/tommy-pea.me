@@ -43,8 +43,8 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
-I studied at the University of Auckland. 
-I have a Bachelor of Engineering (Honours) with First Class Honours specialising in Engineering Science and a Bachelor of Music majoring in Classical Performance on violin.
-Since graduating, I have worked in the transport sector at WSP - a global engineering consultancy - between Wellington, Auckland, Leeds, and London.
+I studied at the University of Auckland. I have a Bachelor of Engineering (Honours) with First Class Honours specialising in Engineering Science and a Bachelor of Music majoring in Classical Performance on violin.
+
+Since graduating, I have worked at WSP for three years between Wellington, Auckland, Leeds, and London in the transport sector. My most recent role was Transport Net Zero Consultant at WSP UK in London.
 
 {% include feature_row id="feature_row" %}
