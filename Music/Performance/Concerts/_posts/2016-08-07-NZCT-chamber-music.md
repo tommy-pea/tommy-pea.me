@@ -1,7 +1,7 @@
 ---
 layout: single
 title: NZCT Chamber Music Competetion 2016
-date:   2016-08-07 11:00:00 +0000
+date:   2016-08-07 00:00:00 +0000
 show_date: false
 tags: 
   - Music

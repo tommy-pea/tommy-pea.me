@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Leeds Symphony Orchestra - Strauss, Janáček, Schubert
-date:   2024-05-11 11:00:00 +0000
+date:   2024-05-11 00:00:00 +0000
 show_date: false
 tags: 
   - Music

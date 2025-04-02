@@ -7,9 +7,9 @@ author_profile: true
 
 ---
 
-I am an engineer and a musician, currently on sabbatical from WSP UK Transport Net Zero Consultant role.
+I am an engineer and a musician.
 I have worked at WSP for three years between Wellington, Auckland, Leeds, and London in the transport sector.
-While in the UK, played with the Leeds Symphony Orchestra, Salomon Orchestra, Weekend Opera Workshops, and did private relief teaching for a friend.
+Music-wise in the UK, I played with the Leeds Symphony Orchestra, Salomon Orchestra, Weekend Opera Workshops, and did private relief teaching for a friend.
 
 I studied at the University of Auckland.
 I have a Bachelor of Engineering (Honours) with First Class Honours specialising in Engineering Science and a Bachelor of Music majoring in Classical Performance.

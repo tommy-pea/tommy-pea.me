@@ -11,15 +11,14 @@ sidebar:
 
 ---
 
-I am a Consultant in WSP UK's Transport Net Zero team.
-I have worked at WSP for three years, in New Zealand and the United Kingdom, between their Wellington, Auckland, Leeds, and London offices.
+I have worked at WSP for three years, in New Zealand and the United Kingdom, between their Wellington, Auckland, Leeds, and London offices. Most recently, I held the role of Consultant in WSP UK's Transport Net Zero team.
 
 I started my career as a Graduate Transport Planner in Wellington, New Zealand. 
 While at WSP NZ, I had [research publicly published][NZTA Research]{:target="_blank"}, presented at multiple conferences, wrote a [WSP insight][WSP Insight]{:target="_blank"}, and became a Member of Engineering New Zealand.
 
-In my current Transport Net Zero Consultant role, I have become an expert in whole life carbon assessment for transport infrastructure projects.
-One highlight has been developing a Python Dash web application to automate the assessment, visualisation, and reporting of road user emissions from transport model output.
-Another highlight has been developing the [Midlands Connect Baseline Emissions Dashboard (a.k.a. MiOutcomes)][MC Baseline]{:target="_blank"} - a complex multi-page interactive web application developed in Dash Enterprise.
+In my Transport Net Zero Consultant role, I became an expert in whole life carbon assessment for transport infrastructure projects.
+I developed a Python Dash web application to automate the assessment, visualisation, and reporting of road user emissions from transport model output.
+I also developed the [Midlands Connect Baseline Emissions Dashboard (a.k.a. MiOutcomes)][MC Baseline]{:target="_blank"} - a complex multi-page interactive web application - in Dash Enterprise.
 
 I have a Bachelor of Engineering (Honours) with First Class Honours, specialising in Engineering Science, from the University of Auckland.
 This is a Washington Accord accredited degree.

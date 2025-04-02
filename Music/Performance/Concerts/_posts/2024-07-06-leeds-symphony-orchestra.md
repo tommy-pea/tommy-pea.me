@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Leeds Symphony Orchestra - Tchaikovsky, Berlioz, Baker, Respeghi
-date:   2024-07-06 11:00:00 +0000
+date:   2024-07-06 00:00:00 +0000
 show_date: false
 tags: 
   - Music
